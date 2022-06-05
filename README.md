@@ -76,5 +76,10 @@ This is a repository of the raw text of poems updated as new transcriptions are 
  38. Ballade 38 
  39. Ballade 39 
  40. Ballade 40
+ 41. Ballade 41
+ 42. Ballade 42
+ 43. Ballade 43
+ 44. Ballade 44
+
 
 
