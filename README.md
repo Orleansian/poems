@@ -13,31 +13,12 @@ This is a repository of the raw text of poems updated as new transcriptions are 
 # Poems currently in repository
 
 ## Opening
-1. E1. Copy of the Letter of Retinue (f.1r-1v)
-2. N1. The First Meeting with the God of Love (f.2r-4r)
+1. [E1. Copy of the Letter of Retinue (f.1r-1v)](https://github.com/Orleansian/poems/blob/main/I.%20Introduction/1.%20Copy%20of%20the%20Letter%20of%20Retinue)
+2. [N1. The First Meeting with the God of Love (f.2r-4r)](https://github.com/Orleansian/poems/blob/main/I.%20Introduction/2.%20Narrative%201)
 
 ## First ballade cycle
-# Raw text poems
-
-This is a repository of the raw text of poems updated as new transcriptions are made. Each file is a single poem.
-
-#### Legend
-- E - Epistle
-- N - Narrative
-- B - Ballade
-- R - Roundel
-- C - Chanson
-- M - Misc.
-
-# Poems currently in repository
-
-## Opening
-1. E1. Copy of the Letter of Retinue (f.1r-1v)
-2. N1. The First Meeting with the God of Love (f.2r-4r)
-
-## First ballade cycle
- 1. Ballade 1  (f.4v-5r) 
- 2. Ballade 2 (f.5r-5v) 
+ 1. [Ballade 1  (f.4v-5r)](https://github.com/Orleansian/poems/blob/main/II.%20First%20Ballade%20Cycle/B01.%20Ballade%201)
+ 2. [Ballade 2 (f.5r-5v)](https://github.com/Orleansian/poems/blob/main/II.%20First%20Ballade%20Cycle/B02.%20Ballade%202)
  3. Ballade 3 
  4. Ballade 4 
  5. Ballade 5 
@@ -80,6 +61,3 @@ This is a repository of the raw text of poems updated as new transcriptions are 
  42. Ballade 42
  43. Ballade 43
  44. Ballade 44
-
-
-
